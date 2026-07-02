@@ -25,10 +25,10 @@ Este proyecto nace de la necesidad de **democratizar el control robótico**, per
 
 ## 3. Equipo de Desarrollo
 
-* **Diego Marques:** Ingeniería y desarrollo del pipeline de Inteligencia Artificial y control de hardware robótico.
-* **Haili Avila:** 
-* **Jose Antonio Reyes:**
+* **Diego Marques**
+* **Haili Avila** 
+* **Jose Antonio Reyes**
 
 ### Profesores y Asesores
-* **Joel Arango Ramirez:**
-* **Huber Giron Nieto:** 
+* **Joel Arango Ramirez**
+* **Huber Giron Nieto** 
