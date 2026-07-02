@@ -1,5 +1,4 @@
 title: "Ibero LLM"
 description: "Evaluación de arquitecturas LLM aplicadas"
 remote_theme: just-the-docs/just-the-docs
-theme: just-the-docs
 search_enabled: true
