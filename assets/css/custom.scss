@@ -1,0 +1,22 @@
+---
+---
+@import "just-the-docs/main";
+
+/* Forzar el color rojo en la barra lateral */
+.side-bar {
+  background-color: #D30033 !important;
+}
+
+/* Forzar el color rojo oscuro en el buscador */
+.search {
+  background-color: #A60028 !important;
+}
+.search-input {
+  background-color: #A60028 !important;
+  color: white !important;
+}
+
+/* Asegurar que el texto del título sea blanco */
+.site-title {
+  color: white !important;
+}
