@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Antonio's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Importar tema remoto
+remote_theme: pmarsceill/just-the-docs
+
+# Metadatos del sitio
+title: "Documentación UR3"
